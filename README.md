@@ -26,7 +26,7 @@ This project is a **Fitness Center Website** designed to provide an online prese
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kagan-dev/Gym-Website.git
+   git clone https://github.com/kagan-dev/Fitness-Center-Website.git
 
     Navigate to the project directory:
 
